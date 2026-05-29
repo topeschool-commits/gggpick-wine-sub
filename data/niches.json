@@ -1,22 +1,22 @@
 {
     "domain": "wine.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "와인 셀러",
+        "와인잔 및 용품",
+        "와인 페어링"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang wine items."
+        "와인 셀러": {
+            "topic": "Wine coolers, mini wine refrigerators.",
+            "role": "Wine storage expert."
         },
-        "수유/이유식": {
-            "topic": "wine bottle sterilizers, wine food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "와인잔 및 용품": {
+            "topic": "Wine glasses, corkscrews, decanters.",
+            "role": "Wine accessories reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "와인 페어링": {
+            "topic": "Cheese platters, charcuterie, wine snacks.",
+            "role": "Wine pairing curator."
         }
     }
 }
