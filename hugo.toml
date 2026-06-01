@@ -5,7 +5,7 @@
 # 1. 사이트 기본 식별 정보
 baseURL = 'https://wine.gggpick.com/'
 languageCode = 'ko-kr'
-title = 'GGG Pick wine'
+title = 'GGG Pick 와인용품'
 
 [params]
   # 2. 쿠팡 파트너스 전용 데이터
@@ -16,7 +16,7 @@ title = 'GGG Pick wine'
   homepage_sections = ["posts"]
   
   # 3. 사이트 설명 및 브랜딩
-  description = 'wine 관련 전문가 리뷰와 쿠팡 최저가 완벽 가이드.'
+  description = '와인 셀러, 와인잔 및 용품, 와인 페어링 등 품격 있는 홈파티를 위한 와인 액세서리 쿠팡 로켓배송 추천 및 리뷰.'
   brandColor = "#1a1c2c"
 
   # (공통) 애드센스 정보 및 메타 데이터
@@ -25,7 +25,7 @@ title = 'GGG Pick wine'
   env = 'production'
 
   # 🚨 사이트 식별 정보
-  sitename = "GGG Pick wine"
+  sitename = "GGG Pick 와인용품"
   siteurl = "https://wine.gggpick.com"
   startdate = "2026-03-31"
   contactemail = "contact@gggpick.com"
